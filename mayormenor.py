@@ -1,6 +1,6 @@
 try:
-    n1 = int(input("Ingrese el primer valor: "))
-    n2 = int(input("Ingrese el segundo valor: "))
+    n1 = float(input("Ingrese el primer valor: "))
+    n2 = float(input("Ingrese el segundo valor: "))
 except:
     print("Solo se aceptan numeros")
 else:
